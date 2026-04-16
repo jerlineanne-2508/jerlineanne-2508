@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🎯 Fresher Data Analyst passionate about uncovering insights from data
+- 🎯Passionate about uncovering insights from data
 - 📍Based in Bavaria, Germany — open to part-time / Werkstudent roles.
 - 🌱 I’m currently learning Python (Pandas), SQL querying, and building Power BI dashboards.
 - 👯 I’m looking to collaborate on open data projects, EDA notebooks, or visualization challenges.
